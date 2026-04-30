@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Salut, moi c'est Bamba GUEYE ! 👋<br><br>- 🔭 Je travaille actuellement sur receipt-tracker<br>- 🌱 J'apprends en ce moment [Fine-tuning/RAG]<br>- 👯 Je cherche à collaborer sur des project relatives à l'AI/ML avec python<br>- 💬 Interrogez-moi sur AI/ML and Python backend developer<br>- 📫 Comment me joindre : [gueyebamba39@gmail.com/whatsapp(+221774359838)]<br>
+## Salut, moi c'est Bamba GUEYE ! 👋<br><br>- 🔭 Je travaille actuellement sur receipt-tracker<br>- 🌱 J'apprends en ce moment [Fine-tuning/RAG]<br>- 👯 Je cherche à collaborer sur des project relatives à l'AI/ML avec python<br>- 💬 Interrogez-moi sur AI/ML and Python backend developer<br>- 📫 Comment me joindre : [gueyebamba39@gmail.com/whatsapp(+221774359838)]<br>
 
 
 # 💻 Tech Stack:
