@@ -2,7 +2,7 @@
 <h1>Salut, moi c'est Bamba GUEYE ! 👋</h1>
 
 - 🔭 Je travaille actuellement sur receipt-tracker
-- 🌱 J'apprends en ce moment Fine-tuning et RAG
+- 🌱 J'apprends en ce moment Fine-tuning
 - 👯 Je cherche à collaborer sur des projets relatifs à l'AI/ML avec Python
 - 💬 Interrogez-moi sur l'IA, le ML et le développement backend Python
 - 📫 Comment me joindre : gueyebamba39@gmail.com / WhatsApp (+221774359838)
