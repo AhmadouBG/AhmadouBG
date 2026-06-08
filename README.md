@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Salut, moi c'est Bamba GUEYE ! 👋</h1>
+<h1>Salut, moi c'est AhmadouBG ! 👋</h1>
 
 - 🔭 Je travaille actuellement sur receipt-tracker
 - 🌱 J'apprends en ce moment Fine-tuning
