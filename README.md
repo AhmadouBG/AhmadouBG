@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1>Salut, moi c'est AhmadouBG ! 👋</h1>
 
-- 🔭 Je travaille actuellement sur receipt-tracker et graph-paper-ai(vectorless RAG)
+- 🔭 Je travaille actuellement sur graph-paper-ai(vectorless RAG) et renewable_grid_analysis
 - 🌱 J'apprends en ce moment fine tuning, RAG and Power BI
 - 👯 Je cherche à collaborer sur des projets relatifs à l'AI/ML avec Python
 - 💬 Interrogez-moi sur l'IA, le ML et le développement backend Python
